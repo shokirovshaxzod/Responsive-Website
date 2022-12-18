@@ -8,6 +8,6 @@
 #
 
 <div style="display: flex; gap:10px;">
-<img src="dark.png" alt="not photo" width="400">
-<img src="light.png" alt="not photo"width="400">
+<img src="./project info/dark.png" alt="not photo" width="400">
+<img src="./project info/light.png" alt="not photo"width="400">
 </div>
