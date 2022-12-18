@@ -4,7 +4,7 @@
 
 1. <a href="https://boxicons.com/" style="color:#707070;">boxicons.com</a>
 2. <a href="https://scrollrevealjs.org/" style="color:#707070;">scrollreveal.org</a>
-
+3. <a href="https://tasty-food-site-shaxzod.netlify.app/" style="color:#707070;">Site link</a>
 #
 
 <div style="display: flex; gap:10px;">
